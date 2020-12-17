@@ -1,0 +1,9 @@
+5A)INPUT
+3
+1 2
+2 2
+8 7
+2
+3 3
+4 4
+When key does not exist in data1 the key_value pair is not added to it.
