@@ -1,0 +1,18 @@
+SOLUTION 5C)
+Test cae 1:
+4
+1 2
+3 3
+3 8
+4 9
+Test case 2:
+4
+1 2
+2 2
+3 3
+4 19
+2
+3 3
+4 19
+Test case 3:
+The test case written in 5a which breaks the initially written code can be written here.
